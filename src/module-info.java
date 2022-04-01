@@ -1,0 +1,2 @@
+module jfsd_java {
+}
